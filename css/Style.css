@@ -1,0 +1,198 @@
+
+
+body{
+	width: 70%;
+	margin: auto;
+}
+
+div.p {
+	background-image: url("../media/arqui.jpg");
+	text-align: center;
+	font-size: 250%;
+	color: white;
+}
+
+div.verdesito {
+	background-color: #CFF0A8;
+	font-size: 100%;
+}
+
+div.moradito{
+	background-color: #D9CEF9;
+	font-size: 100%;
+	text-align: center;
+}
+
+div.pastel{
+	background-color: #FCD6FD;
+	font-size: 100%;
+	text-align: center;
+}
+
+
+div.cafe {
+	background-color: brown;
+	font-size: 100%;
+}
+
+div.azu {
+	background-color: #C8DCF9;
+	font-size: 100%;
+	text-align: center;
+}
+
+div.Izq{
+	width: 50%;
+	height: 100;
+	float: left;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	background-color: #FCD6FD;
+}
+
+div.Der{
+	width: 50%;
+	height: 100;
+	float: right;
+	margin: 0;
+	padding: 0;
+	background-color: #C8DCF9;
+}
+
+div.unidad1{
+	background-image: url("../media/unidad1.jpg");
+	text-align: center;
+	font-size: 220%;
+}
+
+img.seg{
+	content: url("../media/segmentada.png");
+	width: 500px;
+	height: 300px;
+}
+
+img.im2{
+	content: url("../media/Cluster.png");
+	width: 500px;
+	height: 300px;
+}
+
+img.im3{
+	content: url("../media/risc.gif");
+	width: 500px;
+	height: 300px;
+}
+
+img.alu{
+	content: url("../media/alu.jpg");
+	width: 500px;
+	height: 300px;
+}
+
+img.buses{
+	content: url("../media/buses.png");
+	width: 500px;
+	height: 300px;
+}
+
+img.semi{
+	content: url("../media/semi.jpg");
+	width: 500px;
+	height: 300px;
+}
+
+img.modulo{
+	content: url("../media/modulo.jpg");
+	width: 500px;
+	height: 300px;
+}
+
+img.registros{
+	content: url("../media/registros.png");
+	width: 500px;
+	height: 300px;
+}
+
+img.segme{
+	content: url("../media/segmen.png");
+	width: 500px;
+	height: 300px;
+}
+
+img.chipset{
+	content: url("../media/chipset.jpg");
+	width: 500px;
+	height: 300px;
+}
+
+img.inte{
+	content: url("../media/inte.png");
+	width: 400px;
+	height: 500px;
+}
+
+img.dma{
+	content: url("../media/dma.png");
+	width: 500px;
+	height: 300px;
+}
+
+img.circuito{
+	content: url("../media/circuito.jpg");
+	width: 500px;
+	height: 300px;
+}
+
+img.entrada{
+	content: url("../media/entrada.png");
+	width: 500px;
+	height: 300px;
+}
+
+img.nube{
+	content: url("../media/nube.jpeg");
+	width: 400px;
+	height:200px;
+}
+
+img.info{
+	content: url("../media/info.jpg");
+	width: 400px;
+	height:200px;
+}
+
+img.fuente{
+	content: url("../media/fuente.jpg");
+	width: 400px;
+	height:200px;
+}
+
+img.condiciones{
+	content: url("../media/condiciones.jpg");
+	width: 400px;
+	height:200px;
+}
+
+img.redes{
+	content: url("../media/redes.jpg");
+	width: 400px;
+	height:400px;
+}
+
+
+/* TEXTOOOOOS*/
+
+p.cent{
+	/*Tipo de letra*/
+	/*Tamaño de la letra*/
+	font-size: 112%;
+	/*Alineacion cuadrada*/
+	text-align: center;	
+	border-radius: 50%px;
+	border-width: 0px;
+	color: red;
+}
+
+
+
